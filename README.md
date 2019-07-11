@@ -7,4 +7,4 @@
 >滚动插件来自第三方，数据由data.json模拟获取，CSS语法采用stylus预编译。
 
 图片预览：
-![Image text]
+![Image text](https://github.com/mcx3499/my-vue-eleme/blob/master/image/主界面.png)
