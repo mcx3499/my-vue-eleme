@@ -8,3 +8,8 @@
 
 图片预览：
 ![Image text](https://github.com/mcx3499/my-vue-eleme/blob/master/image/主界面.png)
+![Image text](https://github.com/mcx3499/my-vue-eleme/blob/master/image/优惠信息.png)
+![Image text](https://github.com/mcx3499/my-vue-eleme/blob/master/image/商家信息.png)
+![Image text](https://github.com/mcx3499/my-vue-eleme/blob/master/image/商家信息.png)
+![Image text](https://github.com/mcx3499/my-vue-eleme/blob/master/image/商家评价.png)
+![Image text](https://github.com/mcx3499/my-vue-eleme/blob/master/image/选购界面.png)
